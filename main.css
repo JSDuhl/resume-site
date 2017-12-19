@@ -1,0 +1,48 @@
+body {
+  background-color: beige;
+  font-family: helvetica;
+  margin: 90px;
+  border-style:solid;
+  border-width: thin;
+  border-color: brown;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+h1 {
+  text-align: center;
+  font-family: arial;
+  color: brown;
+}
+
+h2 {
+  text-align: center;
+  font-family: arial;
+  color: brown;
+  font-weight: lighter;
+}
+
+h5 {
+  text-align: center;
+  font-style: italic;
+  font-size: 15px;
+  text-decoration: underline;
+}
+
+h3 {
+  font-size: 15px;
+  text-align: left;
+  font-weight: lighter;
+  margin: 0 0 30px 0;
+  }
+
+p {
+  text-align:center;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+a {
+  target-name: New;
+  target-new: tab;
+}
